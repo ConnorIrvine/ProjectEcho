@@ -12,3 +12,9 @@
 8. Create a **Pull Request** and wait for review before pushing into main
 
 Friendly note please prefix all commit messages with **fix:** or **feat:** depending on if what you are doing constitutes a new feature or a fixture of existing code or logic. Another friendly reminder that you need to save your files before staging/commiting using *Ctrl + S* in VSCODE.
+
+# PAIN
+# THE WALL PEOPLE ARE HERE
+# AHHHHH
+# AHHHHHHHHHHHH
+# AHHHHHHHHHHHHHHHHHHHHH
