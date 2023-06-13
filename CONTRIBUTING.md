@@ -1,4 +1,4 @@
-# ADDING CODE
+# Version Control
 
 1. ``Git checkout main``: This will bring you into your local main
 2. ``Git fetch``,``Git pull``: This will pull all changes that you do not have in your local main branch before starting another
