@@ -1,5 +1,13 @@
-# ProjectEcho
+# Motorized Prosthetic For Driving An Automatic Vehicle
 
-Our chosen user population is 25- to 40-year-old hand amputees (specifically those missing the left hand), in Ontario, with a driver's license; our chosen task is driving. Products exist for one-handed driving, such as "knob grips" for assisted steering and modifications to the gear shifter and secondary controls (e.g., turn signals). Some one-handed drivers may choose to use prosthetics to aid driving (or a combination of a prosthetic and car-modifications). 
+## Project Summary
 
-Our goal is to create a motorized prosthetic that allows a user to drive a car without additional car-modifications; the prosthetic shall be able to grip/un-grip the wheel via EMG signal. The user, then, shall be able to utilize their turn signals, headlight controls, horn, and potentially steering-wheel-buttons while driving.
+Hand amputees that wish to drive a vehicle use a combination of driving aids, often requiring modification of their vehicles. We designed and developed a motorized prosthetic with the goal of removing the need for hand amputees to modify their vehicle in order to drive. 
+The prosthetic, consisting of a clamp mechanism, can be opened with a servo motor triggered by an EMG signal from the user. Validation was performed to determine the prototype’s viability; the prototype is capable of gripping a wheel and assisting rotation.
+
+## Code Build Instructions
+
+1. Connect Arduino Uno to computer
+2. Open Arduino IDE
+3. Open ServoController.ino as a Sketch
+4. Send program to Uno
